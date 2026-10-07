@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
+  <defs><pattern id="p" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2" fill="#18231E" opacity=".55"/></pattern><radialGradient id="fade"><stop offset=".1" stop-color="white"/><stop offset="1" stop-color="black"/></radialGradient><mask id="m"><circle cx="320" cy="320" r="290" fill="url(#fade)"/></mask></defs>
+  <circle cx="320" cy="320" r="300" fill="url(#p)" mask="url(#m)"/>
+  <path d="M75 315c25-168 205-260 348-173 116 71 165 229 89 348-65 102-211 144-316 78-97-61-123-184-60-269 52-70 144-94 215-53 62 36 86 111 54 168-29 51-93 70-142 43" fill="none" stroke="#18231E" stroke-width="4" stroke-linecap="round" opacity=".8"/>
+  <path d="m261 440 4 25-24-7" fill="none" stroke="#18231E" stroke-width="4" stroke-linejoin="round"/>
+</svg>
